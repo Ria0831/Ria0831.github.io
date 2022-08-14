@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 一路向北
   text: 随便写点啥.
-  tagline: 祝我发财祝我暴富
+  tagline: 祝我发财祝我暴富祝我能赢
   image:
     src: /.vitepress/public/logo.png
     alt: logo
@@ -13,8 +13,8 @@ hero:
       text:  组件库
       link: /guide/README
     - theme: alt
-      text: View on Gitee
-      link: https://gitee.com/geeksdidi
+      text: View on Github
+      link: https://github.com/Ria0831
 
 features:
   - icon: ⚡️
